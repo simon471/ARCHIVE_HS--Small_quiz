@@ -1,1 +1,7 @@
+inheritance - it means that when you create a subclass for a class things from the class will inheritance to the subclass, such
+  as: the fields and method from the super class can still be used in the subclass.
 
+
+polymorphism - when you create subclass for a class it can more than one, and it make the class more diversity also method can
+  be overloaded within super class and subclass. Such as the intro method that we have made during the lesson, it can overload
+  in Person class and Student class.
